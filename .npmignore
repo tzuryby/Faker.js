@@ -1,0 +1,10 @@
+.npm/
+build/*
+build/build/*
+!build/build/faker.js
+!build/build/faker.min.js
+doc/
+examples/
+meteor/
+test/
+logo.png
